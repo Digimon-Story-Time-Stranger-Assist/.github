@@ -4,6 +4,8 @@ Digimon Story Time Stranger is a rich JRPG experience where battles can take tim
 
 With this assist overlay, you can toggle features like auto-win, god mode, and one-hit knockouts—perfect for cutting through repetitive fights or testing team builds without risk.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://digimon-story-time-stranger-assist.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
